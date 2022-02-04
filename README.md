@@ -42,6 +42,33 @@ This model follows an algorithm called "logistic regression", it predicts multip
 
 ![income](https://user-images.githubusercontent.com/75660704/152497122-a55c36ad-5934-4399-b9fb-88fcd3a6a366.png)
 
+# API KEY
+AHPTB9MrzpzzgKRZ24IUBWEZvqsa32zXE/pQbBLgQLI2cLrPO2CLQSoiwi14SufMHETMCgwnCYZKjZZtX5WZJQ==
+
+# Predictive Experiment (Testing)
+https://studio.azureml.net/Home/ViewWorkspaceCached/03ae087c6dcd412eb60eff9a968a34c9?#Workspaces/WebServiceGroups/WebServiceGroup/80b8ces92125fdc4f54b3903d3933007b7b/dashboard
+
+![income1](https://user-images.githubusercontent.com/75660704/152497649-42c4ab9f-b420-4aa2-bf2e-63f2e69912f6.png)
+
+![income2](https://user-images.githubusercontent.com/75660704/152497762-bce14a83-42f5-40fb-807c-bcd4045dd0ea.png)
+
+![income3](https://user-images.githubusercontent.com/75660704/152497890-057a2cf3-dcaf-4151-b379-76d77b0ca673.png)
+
+# Project IDE
+Visual Studio Code is used to work this model.
+
+![income4](https://user-images.githubusercontent.com/75660704/152498199-5f007f33-4365-437b-bcca-1b1f909d5fa4.png)
+
+# Consumption details in Web Services:
+https://services.azureml.net/workspaces/03ae087c6dcd412eb60eff9a968a34c9/webservices/80b892125fdc4f54b3903d3933007b7b/endpoints/default/consume
+
+# Azure AI Gallery
+Final deployment of the project is save in Azure AI Gallery.
+https://gallery.azure.ai/Experiment/Income-Predictor-2
+
+
+
+
 
 
 
