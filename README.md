@@ -1,1 +1,5 @@
-# income-predictor-2022
+# Income Predictor 
+
+# Aim
+To deployment of income predictor model using Azure ML
+
