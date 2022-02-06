@@ -42,9 +42,6 @@ This model follows an algorithm called "logistic regression", it predicts multip
 
 ![azure](https://user-images.githubusercontent.com/75660704/152693054-93c44625-45cc-47cb-b688-de4dcd383f57.png)
 
-# API KEY
-AHPTB9MrzpzzgKRZ24IUBWEZvqsa32zXE/pQbBLgQLI2cLrPO2CLQSoiwi14SufMHETMCgwnCYZKjZZtX5WZJQ==
-
 # Predictive Experiment (Testing)
 
 ![azure1](https://user-images.githubusercontent.com/75660704/152693205-12e4422a-a0cf-493c-aabe-054b511b2b4d.png)
