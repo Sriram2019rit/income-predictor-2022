@@ -40,27 +40,29 @@ Azure ML Studio is used as Web Portal.
 # Algorithm
 This model follows an algorithm called "logistic regression", it predicts multiple linear regression.
 
-![income](https://user-images.githubusercontent.com/75660704/152497122-a55c36ad-5934-4399-b9fb-88fcd3a6a366.png)
+![azure](https://user-images.githubusercontent.com/75660704/152693054-93c44625-45cc-47cb-b688-de4dcd383f57.png)
 
 # API KEY
 AHPTB9MrzpzzgKRZ24IUBWEZvqsa32zXE/pQbBLgQLI2cLrPO2CLQSoiwi14SufMHETMCgwnCYZKjZZtX5WZJQ==
 
 # Predictive Experiment (Testing)
-https://studio.azureml.net/Home/ViewWorkspaceCached/03ae087c6dcd412eb60eff9a968a34c9?#Workspaces/WebServiceGroups/WebServiceGroup/80b8ces92125fdc4f54b3903d3933007b7b/dashboard
 
-![income1](https://user-images.githubusercontent.com/75660704/152497649-42c4ab9f-b420-4aa2-bf2e-63f2e69912f6.png)
+![azure1](https://user-images.githubusercontent.com/75660704/152693205-12e4422a-a0cf-493c-aabe-054b511b2b4d.png)
 
-![income2](https://user-images.githubusercontent.com/75660704/152497762-bce14a83-42f5-40fb-807c-bcd4045dd0ea.png)
+![azure5](https://user-images.githubusercontent.com/75660704/152693311-fda2b10a-90a0-4871-a24e-12e59f06b89a.png)
 
-![income3](https://user-images.githubusercontent.com/75660704/152497890-057a2cf3-dcaf-4151-b379-76d77b0ca673.png)
+![azure6](https://user-images.githubusercontent.com/75660704/152693425-55624854-f1eb-46a4-b840-792a1d52e7aa.png)
+
+# Data Collected
+
+![azure2](https://user-images.githubusercontent.com/75660704/152693544-b8101b66-b97a-4b81-8ff0-336756d73f7e.png)
+
+![azure3](https://user-images.githubusercontent.com/75660704/152693616-773d8fa6-a286-4c17-b91d-f8d4cdc756c3.png)
 
 # Project IDE
 Visual Studio Code is used to work this model.
 
-![income4](https://user-images.githubusercontent.com/75660704/152498199-5f007f33-4365-437b-bcca-1b1f909d5fa4.png)
-
-# Consumption details in Web Services:
-https://services.azureml.net/workspaces/03ae087c6dcd412eb60eff9a968a34c9/webservices/80b892125fdc4f54b3903d3933007b7b/endpoints/default/consume
+![azure4](https://user-images.githubusercontent.com/75660704/152693658-cae463b4-4e70-4470-a333-bc3c0dd0a64b.png)
 
 # Azure AI Gallery
 Final deployment of the project is save in Azure AI Gallery.
