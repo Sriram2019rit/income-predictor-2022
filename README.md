@@ -62,10 +62,10 @@ Visual Studio Code is used to work this model.
 ![azure4](https://user-images.githubusercontent.com/75660704/152693658-cae463b4-4e70-4470-a333-bc3c0dd0a64b.png)
 
 # Azure AI Gallery
-Final deployment of the project is save in Azure AI Gallery.
+
 https://gallery.azure.ai/Experiment/Income-Predictor-2
 
-
+![azure7](https://user-images.githubusercontent.com/75660704/152693932-74680b61-a7b7-4e56-b7e4-fb8266ef45e8.png)
 
 
 
